@@ -13,3 +13,7 @@ Python, SQL
 AWS 
 Pandas, Scikit-learn, Jupyter
 Streamlit, Matplotlib, Seaborn
+
+
+# Writing & Articles
+I also write about data science, data tools and real world data challenges [here.](https://medium.com/@Stephanie-Sandra)
